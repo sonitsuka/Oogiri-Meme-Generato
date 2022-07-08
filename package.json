@@ -1,0 +1,28 @@
+{
+  "name": "oogiri-meme-generator",
+  "version": "1.0.0",
+  "description": "- React Hooks:\nuseState, react forms, useEffect, conditional rendering, async, Boxs\n\n- Connection with API : https://api.imgflip.com/get_memes\n\n- Store Images in React App",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
